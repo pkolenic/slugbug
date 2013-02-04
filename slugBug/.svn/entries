@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://svn.cnet.com:8443/network/videotech/uvp_objectiveC/slugBug/slugBug
+https://svn.cnet.com:8443/network
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+de500bdf-6627-0410-9779-992cbe613e55
+
+main.m
+file
+
+
+
+add
+
+slugFriendsRootController.h
+file
+
+
+
+add
+
+slugActivityRootController.h
+file
+
+
+
+add
+
+en.lproj
+dir
+
+
+
+add
+
+slugFriendsRootController.m
+file
+
+
+
+add
+
+slugSettingsRootController.h
+file
+
+
+
+add
+
+slugActivityRootController.m
+file
+
+
+
+add
+
+slugBug-Info.plist
+file
+
+
+
+add
+
+slugAppDelegate.h
+file
+
+
+
+add
+
+slugSettingsRootController.m
+file
+
+
+
+add
+
+slugAppDelegate.m
+file
+
+
+
+add
+
+slugSlugRootController.h
+file
+
+
+
+add
+
+slugMapRootController.h
+file
+
+
+
+add
+
+slugSlugRootController.m
+file
+
+
+
+add
+
+slugMapRootController.m
+file
+
+
+
+add
+
+slugBug-Prefix.pch
+file
+
+
+
+add
+
